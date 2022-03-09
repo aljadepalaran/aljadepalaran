@@ -1,7 +1,5 @@
 # Hello there! <img src="https://raw.githubusercontent.com/thinkerou/thinkerou/master/wave.gif" width="30px"> 
 
-[![](https://gitwar.herokuapp.com/badge?username=aljadepalaran&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 ## Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
