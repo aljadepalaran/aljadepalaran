@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working for <a href="https://www.theaccessgroup.com/en-gb/" target="blank">The Access Group</a>
 
-- 💻 My ongoing personal project is a restaurant management website
+- 💻 Personal Project = Restaurant Management Website
 
 - 🤝 I’m happy to help where I can, just ask.
 
