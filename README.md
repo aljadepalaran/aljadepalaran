@@ -6,6 +6,8 @@
 <br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=aljadepalaran&label=Profile%20views&color=0047AB&style=plastic?" alt="aljadepalaran" height=25px, width=160px/>
+	<img src="https://img.shields.io/badge/Age-23-green" height=25px, width=75px/>
+	<img src="https://img.shields.io/badge/Focus-Ruby%20on%20Rails-red" height=25px, width=160px/>
 </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
