@@ -11,13 +11,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working for <a href="https://www.theaccessgroup.com/en-gb/" target="blank">The Access Group</a> ( Software Engineer )
+- 🔭 I’m currently working for <a href="https://www.theaccessgroup.com/en-gb/" target="blank">The Access Group</a>
 
 - 💻 My ongoing personal project is a restaurant management website
 
 - 🤝 I’m happy to help where I can, just ask.
 
-- 🌱 I’m currently learning React and JavaScript, mainly playing Screeps
+- 🌱 I’m currently learning React and JavaScript
 
 - 💬 Ask me about **Ruby on Rails**
 
