@@ -1,4 +1,4 @@
-{
+[
     {
         "dimension": "/job/sales-manager-seek-030/apply",
         "metric": 18
@@ -63,4 +63,4 @@
         "dimension": "/job/senior-data-engineer-seek-032/apply/completed",
         "metric": 1
     }
-}
+]
