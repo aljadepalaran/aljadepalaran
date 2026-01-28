@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "dimension": "/job/sales-manager-seek-030/apply",
+            "metric": 18
+        },
+        {
+            "dimension": "/job/support-status-144/apply",
+            "metric": 16
+        },
+        {
+            "dimension": "/job/support-status-144",
+            "metric": 8
+        },
+        {
+            "dimension": "/job/support-status-144/apply/completed",
+            "metric": 8
+        },
+        {
+            "dimension": "/job/data-engineer-seek-031/apply",
+            "metric": 4
+        },
+        {
+            "dimension": "/job/ruby-developer-seek-033/apply",
+            "metric": 4
+        },
+        {
+            "dimension": "/job/senior-data-engineer-seek-032/apply",
+            "metric": 4
+        },
+        {
+            "dimension": "/job/full-stack-developer-seek-034/apply",
+            "metric": 3
+        },
+        {
+            "dimension": "/job/ab-number-2014557-ab-2014557",
+            "metric": 2
+        },
+        {
+            "dimension": "/job/data-engineer-seek-031",
+            "metric": 2
+        },
+        {
+            "dimension": "/job/sales-manager-seek-030/apply/completed",
+            "metric": 2
+        },
+        {
+            "dimension": "/job/ab-2014557-new-ab-2014557-new",
+            "metric": 1
+        },
+        {
+            "dimension": "/job/data-engineer-seek-031/apply/completed",
+            "metric": 1
+        },
+        {
+            "dimension": "/job/full-stack-developer-seek-034/apply/completed",
+            "metric": 1
+        },
+        {
+            "dimension": "/job/ruby-developer-seek-033/apply/completed",
+            "metric": 1
+        },
+        {
+            "dimension": "/job/senior-data-engineer-seek-032/apply/completed",
+            "metric": 1
+        }
+    ]
+}
