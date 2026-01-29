@@ -1,0 +1,35 @@
+[
+    {
+        "dimensions": {
+            "first_user_manual_source": "(not set)",
+            "device_category": "desktop"
+        },
+        "metrics": {
+            "sessions": 67,
+            "screen_page_views_per_session": 2.044776119402985,
+            "average_session_duration": 162.06348770149253
+        }
+    },
+    {
+        "dimensions": {
+            "first_user_manual_source": "statics.teams.cdn.office.net",
+            "device_category": "desktop"
+        },
+        "metrics": {
+            "sessions": 4,
+            "screen_page_views_per_session": 10.25,
+            "average_session_duration": 828.2757965
+        }
+    },
+    {
+        "dimensions": {
+            "first_user_manual_source": "seek.com.au",
+            "device_category": "desktop"
+        },
+        "metrics": {
+            "sessions": 3,
+            "screen_page_views_per_session": 5.333333333333333,
+            "average_session_duration": 371.614662
+        }
+    }
+]
