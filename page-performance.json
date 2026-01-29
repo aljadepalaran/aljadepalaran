@@ -1,0 +1,218 @@
+[
+    {
+        "dimension": "/",
+        "metrics": {
+            "event_count": 176,
+            "bounce_rate": 0.8793103448275862,
+            "user_engagement_duration": 33.0
+        }
+    },
+    {
+        "dimension": "/job/sales-manager-seek-030/apply",
+        "metrics": {
+            "event_count": 55,
+            "bounce_rate": 0.25,
+            "user_engagement_duration": 352.0
+        }
+    },
+    {
+        "dimension": "/job/support-status-144/apply",
+        "metrics": {
+            "event_count": 50,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 1112.0
+        }
+    },
+    {
+        "dimension": "/jobs",
+        "metrics": {
+            "event_count": 50,
+            "bounce_rate": 0.1,
+            "user_engagement_duration": 86.0
+        }
+    },
+    {
+        "dimension": "/users/login",
+        "metrics": {
+            "event_count": 35,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 82.0
+        }
+    },
+    {
+        "dimension": "/job/support-status-144",
+        "metrics": {
+            "event_count": 24,
+            "bounce_rate": 0.25,
+            "user_engagement_duration": 53.0
+        }
+    },
+    {
+        "dimension": "/job/support-status-144/apply/completed",
+        "metrics": {
+            "event_count": 22,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 28.0
+        }
+    },
+    {
+        "dimension": "/job/ruby-developer-seek-033/apply",
+        "metrics": {
+            "event_count": 17,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 49.0
+        }
+    },
+    {
+        "dimension": "/job/data-engineer-seek-031/apply",
+        "metrics": {
+            "event_count": 10,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 43.0
+        }
+    },
+    {
+        "dimension": "/dashboard/jobs",
+        "metrics": {
+            "event_count": 8,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 21.0
+        }
+    },
+    {
+        "dimension": "/job/senior-data-engineer-seek-032/apply",
+        "metrics": {
+            "event_count": 8,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 48.0
+        }
+    },
+    {
+        "dimension": "/seed-about-us",
+        "metrics": {
+            "event_count": 8,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 49.0
+        }
+    },
+    {
+        "dimension": "/dashboard",
+        "metrics": {
+            "event_count": 7,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 17.0
+        }
+    },
+    {
+        "dimension": "/job/full-stack-developer-seek-034/apply",
+        "metrics": {
+            "event_count": 7,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 32.0
+        }
+    },
+    {
+        "dimension": "/job/sales-manager-seek-030/apply/completed",
+        "metrics": {
+            "event_count": 7,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 10.0
+        }
+    },
+    {
+        "dimension": "/job/data-engineer-seek-031",
+        "metrics": {
+            "event_count": 6,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 22.0
+        }
+    },
+    {
+        "dimension": "/users/register/new/registration",
+        "metrics": {
+            "event_count": 6,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 102.0
+        }
+    },
+    {
+        "dimension": "/job/ab-2014557-new-ab-2014557-new",
+        "metrics": {
+            "event_count": 5,
+            "bounce_rate": 1.0,
+            "user_engagement_duration": 0.0
+        }
+    },
+    {
+        "dimension": "/job/ab-number-2014557-ab-2014557",
+        "metrics": {
+            "event_count": 4,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 18.0
+        }
+    },
+    {
+        "dimension": "/dashboard/job_applications/6530534",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 6.0
+        }
+    },
+    {
+        "dimension": "/disciplines/discipline-csm",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 1.0,
+            "user_engagement_duration": 0.0
+        }
+    },
+    {
+        "dimension": "/job/data-engineer-seek-031/apply/completed",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 3.0
+        }
+    },
+    {
+        "dimension": "/job/full-stack-developer-seek-034/apply/completed",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 1.0
+        }
+    },
+    {
+        "dimension": "/job/ruby-developer-seek-033/apply/completed",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 1.0
+        }
+    },
+    {
+        "dimension": "/job/senior-data-engineer-seek-032/apply/completed",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 14.0
+        }
+    },
+    {
+        "dimension": "/users/invitation/accept",
+        "metrics": {
+            "event_count": 3,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 12.0
+        }
+    },
+    {
+        "dimension": "/job/ruby-developer-seek-033",
+        "metrics": {
+            "event_count": 2,
+            "bounce_rate": 0.0,
+            "user_engagement_duration": 0.0
+        }
+    }
+]
